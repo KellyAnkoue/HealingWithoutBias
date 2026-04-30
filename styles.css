@@ -405,6 +405,10 @@ p {
   padding: 40px;
   border-radius: 8px;
 }
+.ignore{
+  justify-content: center;
+}
+
 
 .emergency-box h2 {
   color: #fffaf1;
