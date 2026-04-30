@@ -21,8 +21,8 @@ body {
 }
 
 .header img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 0;
 }
 
@@ -364,4 +364,17 @@ footer a {
 
 .resource-link:hover {
   text-decoration: underline;
+}
+
+.image-credit {
+  font-size: 12px;
+  color: #9a7a5a;
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.image-credit a {
+  color: #c9a87c;
+  text-decoration: none;
 }
