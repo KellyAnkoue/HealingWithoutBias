@@ -122,11 +122,11 @@ nav a:hover {
   text-decoration: none;
 }
 
-/* SECTIONS */
 .section {
   padding: 40px;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 0 auto;  /* ← this centers the section */
+  width: 100%;
 }
 
 .section h2 {
@@ -222,6 +222,7 @@ p {
   gap: 30px;
   align-items: flex-start;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .policy-number {
