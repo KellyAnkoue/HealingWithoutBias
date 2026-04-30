@@ -122,10 +122,11 @@ nav a:hover {
   text-decoration: none;
 }
 
+/* SECTIONS */
 .section {
   padding: 40px;
   max-width: 900px;
-  margin: 0 auto;  /* ← this centers the section */
+  margin: 0 auto;
   width: 100%;
 }
 
@@ -141,13 +142,15 @@ nav a:hover {
 /* ALTERNATING SECTION BACKGROUND */
 .section-alt {
   background-color: #fff8f3;
-  padding: 40px;
+  padding: 0;
+  width: 100%;
 }
 
 .section-alt .section {
   padding: 40px;
   max-width: 900px;
   margin: 0 auto;
+  width: 100%;
 }
 
 /* PARAGRAPHS */
